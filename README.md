@@ -5,7 +5,7 @@ Tenho experiência em engenharia de dados, automação e sistemas corporativos, 
 🚀 **Áreas de Atuação**
 
 - Gestão de projetos de TI  
-- Desenvolvimento **Full Stack** (Python, Ruby on Rails, HTML, CSS, JS)  
+- Desenvolvimento **Full Stack** (Python, Ruby on Rails, JS)  
 - **ETL e Data Engineering** com Pandas, Dagster e Oracle  
 - Integração de **APIs e IA generativa**
 
