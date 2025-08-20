@@ -9,7 +9,7 @@ Tenho experiência em engenharia de dados, automação e sistemas corporativos, 
 - **ETL e Data Engineering** com Pandas, Dagster e Oracle  
 - Integração de **APIs e IA generativa**
 
-  🛠️ **Tecnologias & Ferramentas**
+🛠️ **Tecnologias**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
